@@ -1,0 +1,26 @@
+{
+  "name": "node-js-snippets",
+  "version": "1.0.0",
+  "description": "Code snippets for Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chinhdo/node-js-snippets.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chinhdo/node-js-snippets/issues"
+  },
+  "homepage": "https://github.com/chinhdo/node-js-snippets#readme",
+  "devDependencies": {
+    "typescript": "^3.9.5"
+  },
+  "dependencies": {
+    "@types/node": "^14.0.11"
+  }
+}
